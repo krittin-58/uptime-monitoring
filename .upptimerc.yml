@@ -5,7 +5,27 @@ repo: uptime-monitoring # The name of this repository
 sites:
   - name: Hobbies Backend
     url: https://hobbies-backend.vercel.app
+  - name: E-Sport Recruitment
+    url: https://esport-recruitment.vercel.app
+  - name: Game Compare Prices
+    url: https://peppy-llama-380c69.netlify.app
+  - name: E-Sport Tracker
+    url: https://esport-tracker-eight.vercel.app
+  - name: Master Concept Examination Online
+    url: https://master-concept.vercel.app
+  - name: SMM Panel App
+    url: https://glittery-twilight-d3f1c7.netlify.app
+  - name: Steam Store API
+    url: https://hobbies-backend.vercel.app/steam/featured
+  - name: PandaScore API
+    url: https://hobbies-backend.vercel.app/pandascore
+  - name: ISS Tracker API
+    url: https://hobbies-backend.vercel.app/open-notify/iss-now
+  - name: Youtube API
+    url: https://hobbies-backend.vercel.app/youtube
 
+assignees: 
+  - krittin-58
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
