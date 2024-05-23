@@ -4,19 +4,19 @@
     "url": "https://hobbies-backend.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/hobbies-backend.vercel.app.ico",
     "slug": "hobbies-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1144,
-    "timeDay": 1744,
-    "timeWeek": 1632,
-    "timeMonth": 1068,
-    "timeYear": 1144,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1153,
+    "timeDay": 1731,
+    "timeWeek": 1643,
+    "timeMonth": 1089,
+    "timeYear": 1153,
     "dailyMinutesDown": {
-      "2024-05-23": 0
+      "2024-05-23": 5
     }
   },
   {
