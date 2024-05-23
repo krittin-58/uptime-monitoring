@@ -4,9 +4,9 @@
     "url": "https://hobbies-backend.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/hobbies-backend.vercel.app.ico",
     "slug": "hobbies-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1632,
     "timeMonth": 1068,
     "timeYear": 1144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-23": 0
+    }
   },
   {
     "name": "E-Sport Recruitment",
