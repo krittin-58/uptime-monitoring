@@ -148,18 +148,20 @@
     "url": "https://hobbies-backend.vercel.app/open-notify/iss-now",
     "icon": "https://icons.duckduckgo.com/ip3/hobbies-backend.vercel.app.ico",
     "slug": "iss-tracker-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1910,
-    "timeDay": 5536,
-    "timeWeek": 4803,
-    "timeMonth": 2847,
-    "timeYear": 1910,
-    "dailyMinutesDown": {}
+    "time": 2001,
+    "timeDay": 6324,
+    "timeWeek": 4998,
+    "timeMonth": 2989,
+    "timeYear": 2001,
+    "dailyMinutesDown": {
+      "2024-06-05": 0
+    }
   },
   {
     "name": "Youtube API",
