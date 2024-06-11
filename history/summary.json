@@ -148,19 +148,19 @@
     "url": "https://hobbies-backend.vercel.app/open-notify/iss-now",
     "icon": "https://icons.duckduckgo.com/ip3/hobbies-backend.vercel.app.ico",
     "slug": "iss-tracker-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 3173,
-    "timeDay": 5933,
-    "timeWeek": 6162,
-    "timeMonth": 4544,
-    "timeYear": 3173,
+    "time": 3153,
+    "timeDay": 5174,
+    "timeWeek": 6033,
+    "timeMonth": 4497,
+    "timeYear": 3153,
     "dailyMinutesDown": {
-      "2024-06-11": 0
+      "2024-06-11": 5
     }
   },
   {
