@@ -150,18 +150,16 @@
     "slug": "iss-tracker-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3201,
     "timeDay": 5700,
     "timeWeek": 6034,
     "timeMonth": 4568,
     "timeYear": 3201,
-    "dailyMinutesDown": {
-      "2024-06-11": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Youtube API",
