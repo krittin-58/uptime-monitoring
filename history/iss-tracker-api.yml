@@ -1,7 +1,7 @@
 url: https://hobbies-backend.vercel.app/open-notify/iss-now
-status: down
-code: 504
-responseTime: 10255
-lastUpdated: 2024-06-13T23:46:08.389Z
+status: up
+code: 200
+responseTime: 2378
+lastUpdated: 2024-06-13T23:51:20.474Z
 startTime: 2024-03-28T09:40:59.475Z
 generator: Upptime <https://github.com/upptime/upptime>
