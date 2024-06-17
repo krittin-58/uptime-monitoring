@@ -1,7 +1,7 @@
 url: https://hobbies-backend.vercel.app/steam/featured
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-17T21:45:04.708Z
+status: up
+code: 200
+responseTime: 677
+lastUpdated: 2024-06-17T21:50:26.030Z
 startTime: 2024-03-28T09:40:57.684Z
 generator: Upptime <https://github.com/upptime/upptime>
