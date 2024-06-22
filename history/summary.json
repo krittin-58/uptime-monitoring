@@ -112,18 +112,20 @@
     "url": "https://hobbies-backend.vercel.app/steam/featured",
     "icon": "https://icons.duckduckgo.com/ip3/hobbies-backend.vercel.app.ico",
     "slug": "steam-store-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 636,
-    "timeWeek": 631,
-    "timeMonth": 743,
-    "timeYear": 776,
-    "dailyMinutesDown": {}
+    "time": 883,
+    "timeDay": 5474,
+    "timeWeek": 1707,
+    "timeMonth": 1033,
+    "timeYear": 883,
+    "dailyMinutesDown": {
+      "2024-06-22": 0
+    }
   },
   {
     "name": "PandaScore API",
@@ -156,7 +158,7 @@
     "uptimeYear": "99.73%",
     "time": 5520,
     "timeDay": 3822,
-    "timeWeek": 5358,
+    "timeWeek": 5082,
     "timeMonth": 6480,
     "timeYear": 5520,
     "dailyMinutesDown": {
