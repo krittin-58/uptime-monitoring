@@ -112,19 +112,19 @@
     "url": "https://hobbies-backend.vercel.app/steam/featured",
     "icon": "https://icons.duckduckgo.com/ip3/hobbies-backend.vercel.app.ico",
     "slug": "steam-store-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 883,
-    "timeDay": 5474,
-    "timeWeek": 1707,
-    "timeMonth": 1033,
-    "timeYear": 883,
+    "time": 923,
+    "timeDay": 5141,
+    "timeWeek": 1984,
+    "timeMonth": 1134,
+    "timeYear": 923,
     "dailyMinutesDown": {
-      "2024-06-22": 0
+      "2024-06-22": 5
     }
   },
   {
